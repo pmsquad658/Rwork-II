@@ -22,7 +22,7 @@ sms_corpus = tm_map(sms_corpus, stripWhitespace) # 8) 여러 공백 제거(어�
 
 
 ################################
-### DTM 생성 -> X변수 생성  # (document term matrix)
+### DTM 생성 -> X변수 생성  #
 ################################
 
 # 1. DTM 생성 -> 단어길이 : 2 ~ 8, 출현빈도수로 가중치 
